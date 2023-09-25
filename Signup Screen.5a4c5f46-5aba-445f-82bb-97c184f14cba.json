@@ -1,4 +1,5 @@
 {
+    "id": "5a4c5f46-5aba-445f-82bb-97c184f14cba",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -799,7 +800,6 @@
             "name": "EmailLabel"
         }
     ],
-    "id": "5a4c5f46-5aba-445f-82bb-97c184f14cba",
     "thunkableVersion": 421,
     "name": "Signup Screen"
 }

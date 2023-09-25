@@ -1,4 +1,5 @@
 {
+    "id": "b1a10359-a5ee-4380-b6dc-79a6b79ec806",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -338,7 +339,6 @@
             "name": "Label1"
         }
     ],
-    "id": "b1a10359-a5ee-4380-b6dc-79a6b79ec806",
     "thunkableVersion": 422,
     "name": "Signout Screen"
 }
