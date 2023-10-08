@@ -63,6 +63,123 @@
             "translatedName": "Group",
             "reactType": "ViewWithProps",
             "properties": {
+                "Height": 61,
+                "Width": 377,
+                "Visible": true,
+                "X": -3,
+                "Y": 87,
+                "RelativeX": -3,
+                "RelativeY": 87,
+                "ResizeMode": "STRETCH",
+                "BackgroundPictureResizeMode": "contain",
+                "Position": "Relative to Screen",
+                "TouchOpacity": 20,
+                "ParentId": "09bb29b8-8b6f-41ee-8520-073e15619d13",
+                "position": "absolute",
+                "edgeOffsets": 87,
+                "style": {
+                    "position": "absolute",
+                    "left": "17.336940161158942%",
+                    "top": "10.754840534528944%",
+                    "display": "flex"
+                },
+                "resizeMode": "contain"
+            },
+            "children": [
+                {
+                    "type": "Button",
+                    "translatedName": "Button",
+                    "properties": {
+                        "Text": "X",
+                        "TextColor": "#FFFFFF",
+                        "FontSize": 16,
+                        "CustomFont": "",
+                        "BackgroundColor": "rgba(208, 2, 27, 1)",
+                        "Height": 22,
+                        "Width": 23,
+                        "Visible": true,
+                        "X": 351,
+                        "Y": 92,
+                        "RelativeX": 354,
+                        "RelativeY": 5,
+                        "ResizeMode": "STRETCH",
+                        "style": {
+                            "marginTop": 0,
+                            "marginBottom": 0,
+                            "marginLeft": 0,
+                            "marginRight": 0,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingLeft": 0,
+                            "paddingRight": 0,
+                            "borderRadius": 15,
+                            "shadowColor": "rgba(0, 0, 0, 0)",
+                            "shadowOpacity": 0,
+                            "scaledShadowOpacity": 0,
+                            "shadowRadius": 0,
+                            "shadowOffset": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "position": "absolute",
+                            "left": "70.81389880107793%",
+                            "top": "15.200943642176407%",
+                            "display": "flex"
+                        },
+                        "FontBold": false,
+                        "FontItalic": false,
+                        "Raised": false,
+                        "Disabled": false,
+                        "ParentId": "09bb29b8-8b6f-41ee-8520-073e15619d13",
+                        "position": "absolute",
+                        "edgeOffsets": 92.99999999999994
+                    },
+                    "children": [],
+                    "id": "89d32902-1168-4ecd-8995-f897d7fbefaa",
+                    "thunkableVersion": 423,
+                    "name": "closeAd"
+                },
+                {
+                    "type": "AdMobBanner",
+                    "label": "AdMob Banner",
+                    "translatedName": "AdMob Banner",
+                    "properties": {
+                        "Visible": true,
+                        "AdUnitID": "ca-app-pub-5138460208386484/4992747935",
+                        "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                        "TestMode": true,
+                        "Width": 375,
+                        "Height": 32,
+                        "X": -1,
+                        "ParentId": "09bb29b8-8b6f-41ee-8520-073e15619d13",
+                        "Y": 107.59030914306629,
+                        "RelativeX": 2,
+                        "RelativeY": 20,
+                        "position": "absolute",
+                        "edgeOffsets": 107.59030914306629,
+                        "style": {
+                            "position": "absolute",
+                            "left": "27.328609826100593%",
+                            "top": "12.68238050830451%",
+                            "display": "flex"
+                        }
+                    },
+                    "children": [],
+                    "id": "e303a11d-3ce4-496e-817f-0989dd1b76c8",
+                    "thunkableVersion": 423,
+                    "name": "AdMob_Banner2"
+                }
+            ],
+            "id": "0926e332-1c20-49f0-a684-250133a90e6c",
+            "thunkableVersion": 423,
+            "name": "adGroup"
+        },
+        {
+            "type": "Group",
+            "label": "Group",
+            "translatedName": "Group",
+            "reactType": "ViewWithProps",
+            "properties": {
                 "Height": 162,
                 "Width": 195,
                 "Visible": false,
